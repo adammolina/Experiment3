@@ -4,8 +4,28 @@ body {
   margin: none;
 }
 
+h1 {
+  font-family: 'Peddana', serif;
+  display: block;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Peddana', serif;
+  display: block;
+  text-align: left;
+  padding: 2rem 1rem 0 0;
+  font-size: 3rem;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
 .topBlock {
   background-color: #6AACE6;
+  padding: 3rem 0 3rem 0;
 }
 
 .middleBlock {
