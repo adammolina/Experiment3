@@ -3,13 +3,13 @@ body {
 }
 
 .topBlock {
-  background-color: white;
+  background-color: #6AACE6;
 }
 
 .middleBlock {
-  background-color: blue;
+  background-color: #E68581;
 }
 
 .bottomBlock {
-  background-color: red;
+  background-color: #376B99;
 }
