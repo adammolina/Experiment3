@@ -1,37 +1,61 @@
 body {
-  background-color: gray;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: auto;
+  padding: 5rem 0 5rem 0;
+  text-align: left;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  margin: auto;
+  padding: 3rem 0 2rem 0;
+  text-align: left;
+}
+
+p {
+  font-family: 'Caveat', cursive;
+  margin: auto;
+  padding: 0 0 3rem 0;
+  text-align: left;
+}
+
+img {
+  width: 80%;
+  height: auto;
+  padding: 2rem 0 2rem 0;
+  margin: auto;
+  display: block;
+}
+
+.logo {
+  width: 10%;
+  height: auto;
+  padding: 10rem 0 10rem 0;
+}
+
+.topBlock {
+  background-color: #F3F0F2;
   padding: none;
   margin: none;
 }
 
-h1 {
-  font-family: 'Peddana', serif;
-  display: block;
-  text-align: center;
-}
-
-h2 {
-  font-family: 'Peddana', serif;
-  display: block;
-  text-align: left;
-  padding: 2rem 1rem 0 0;
-  font-size: 3rem;
-}
-
-p {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 1.5rem;
-}
-
-.topBlock {
-  background-color: #6AACE6;
-  padding: 3rem 0 3rem 0;
-}
-
 .middleBlock {
-  background-color: #E68581;
+  background-color: #C70003;
+  padding: none;
+  margin: none;
 }
 
 .bottomBlock {
-  background-color: #376B99;
+  background-color: #F0F2F0;
+  padding: none;
+  margin: none;
+}
+
+.bottomPoem {
+  text-align: left;
+  display: block;
 }
